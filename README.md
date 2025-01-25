@@ -10,6 +10,7 @@
 
 <p align="center">A simple application that allows you to consult and search for the most typical and representative dishes from various countries, offering information about their ingredients and preparation.</h4>
 
+The demo data used [themealdb](https://www.themealdb.com/api.php).
 
 ## Built With
 
@@ -22,9 +23,11 @@ The app  uses the library as:
 
 
 
+
+
 ## Preview
 
-<img src="previews/demo_meal_recipes_app.gif" alt="VerbList" width="300">
+<img src="previews/demo_meal_recipes_app.gif" alt="meal" width="300">
 
 
 
