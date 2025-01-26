@@ -22,12 +22,10 @@ The app  uses the library as:
 [![Shimmer](https://img.shields.io/badge/Shimmer-3.0.0-blue?&logoColor=while&style=flat-square)](https://pub.dev/packages/shimmer)
 
 
-
-
-
 ## Preview
 
-<img src="previews/demo_meal_recipes_app.gif" alt="meal" width="300">
+[![Demo meal recipes app](https://img.youtube.com/vi/bf8E23ZgrTk/0.jpg)](https://www.youtube.com/watch?v=bf8E23ZgrTk)
+
 
 
 
