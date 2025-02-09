@@ -1,5 +1,6 @@
 enum AppRoute {
-  home("/home"),
+  home("/splash"),
+  splash("/home"),
   search("/search"),
   categoryDetail("/category_detail_screen"),
   details("/detail");

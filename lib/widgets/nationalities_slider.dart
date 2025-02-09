@@ -20,7 +20,7 @@ class NationalitiesSlider extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 10),
             child: Text(
-              "Browse Country",
+              "Browse country",
               style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
             ),
           ),
@@ -72,7 +72,7 @@ class _ChoiceChip extends StatelessWidget {
             },
             selected: homeProvider.selectedChoiceTap == value,
             selectedColor: Colors.orange,
-            backgroundColor: Colors.white,
+            backgroundColor: Theme.of(context).scaffoldBackgroundColor,
             avatar: null,
             showCheckmark: false,
             shape: RoundedRectangleBorder(

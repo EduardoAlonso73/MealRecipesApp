@@ -61,8 +61,9 @@ class StreamBuilderSearch extends StatelessWidget {
         stream: searchProvider.suggestionStream,
         builder: (BuildContext context,
             AsyncSnapshot<UIState<List<Meal>>> snapshot) {
-          if (!snapshot.hasData && snapshot.data == null)
+          if (!snapshot.hasData && snapshot.data == null) {
             return _emptyContainer();
+          }
           final meals = snapshot.data?.data ?? [];
           return ListView.builder(
               itemCount: meals.length,
