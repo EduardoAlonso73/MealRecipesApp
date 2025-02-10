@@ -24,8 +24,7 @@ The app  uses the library as:
 
 ## Preview
 
-[![Demo meal recipes app](https://img.youtube.com/vi/bf8E23ZgrTk/0.jpg)](https://www.youtube.com/watch?v=bf8E23ZgrTk)
-
+[![Demo meal recipes app](https://img.youtube.com/vi/TRrig-OBNx4/0.jpg)](https://www.youtube.com/watch?v=TRrig-OBNx4)
 
 
 
